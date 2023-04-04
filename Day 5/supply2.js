@@ -51,7 +51,7 @@ for (let i = 0; i < lines.length; i++) {
 }
 
 
-// Parse out our rules
+// Parse out our rules test test test
 const instructions = input.filter(line => line.includes("from"))
 let rules = [];
 
